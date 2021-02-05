@@ -1,0 +1,105 @@
+a, h4{
+    font-family: 'Karla', sans-serif;
+}
+.fon{
+    background-color: #d8e2dc
+}
+.logo{
+    width: 70px;
+    margin: 0 25px 0 0;
+}
+.navbar{
+    background-color: #ffe1a8;
+    box-shadow: 0 0 10px;
+}
+.collapse{
+    margin-right: 30px;
+    font-size: 22px
+}
+.nav-item {
+    margin-left: 50px;
+}
+.form-control{
+    width: 250px;
+    margin-right: 50px;
+    display: inline-block;
+}
+.karusel{
+    width: 80%;
+    margin-left: 10%;
+    padding-top: 50px;
+}
+.btn{
+    border-radius:6px;   
+    display: inline-block;
+    width:130px;
+}
+.choose{
+    background-color: #343a3f;
+    color: aliceblue;
+    width: 160px;
+    padding: 9px;
+    margin: 50px 0 0 40px;
+    border-radius: 6px 6px 0 0;
+}
+
+.search{
+    width: 100%;
+    padding: 20px;
+    background-color: #ffe1a8;
+    border-radius: 60px;
+}
+.tours{
+    padding: 30px 0;
+}
+.features{
+   padding: 50px 50px;
+}
+.oplogo{
+    display: block;
+    padding-bottom: 20px;
+    width: 100px;
+    margin-left: 60px;
+}
+h1{
+    padding:30px; 
+    text-align: center;
+}
+.fonts{
+    padding-bottom: 30px;
+}
+.icons{
+    width: 40px;
+    margin: 4px;
+}
+.links{
+    display: block;
+    padding: 10px;
+    color: black;
+}
+.rem{
+    color: black;
+}
+.footer{
+    background-color: #5c677d
+}
+.row{
+    margin: 0px 60px;
+}
+.col-sm-6{
+    padding: 40px 25px;
+}
+h2{
+    text-align: center;
+}
+.turs{
+    width: 400px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px;
+    display: block;
+    margin-bottom: 10px;
+}
+.tur{
+    display: inline-block;
+    margin: 30px;
+}
